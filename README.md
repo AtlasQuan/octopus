@@ -65,7 +65,10 @@ Dependencies:
 - Install system dependencies
 ```
 # Install system dependencies
+# Linux
 sudo apt-get update && sudo apt-get install python-pip graphviz -y
+# Mac
+brew install graphviz
 ```
 
 - Install Octopus:
